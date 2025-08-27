@@ -14,13 +14,6 @@ This project leverages machine learning techniques to predict the future price o
 - Matplotlib/Seaborn : Data visualization libraries.
 - Scikit-learn    : Machine learning library for model building.
 
-📁 Project Structure
--------------------
-/Ethereum-Price-Prediction
-│
-├── AI_ML_PROJECT.ipynb   # Jupyter Notebook with data analysis and model implementation
-├── Ethereum_Dataset.csv  # Dataset containing historical Ethereum price data
-└── README.md             # Project documentation
 
 🚀 How to Run
 -------------
