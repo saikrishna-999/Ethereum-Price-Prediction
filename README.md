@@ -19,15 +19,16 @@ This project leverages machine learning techniques to predict the future price o
 -------------
 1. Clone the repository:
    git clone https://github.com/saikrishna-999/Ethereum-Price-Prediction.git
+   
    cd Ethereum-Price-Prediction
 
-2. Install required libraries:
+3. Install required libraries:
    pip install -r requirements.txt
 
-3. Launch Jupyter Notebook:
+4. Launch Jupyter Notebook:
    jupyter notebook AI_ML_PROJECT.ipynb
 
-4. Follow the instructions within the notebook to execute the analysis and model training.
+5. Follow the instructions within the notebook to execute the analysis and model training.
 
 📊 Sample Output
 ----------------
